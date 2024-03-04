@@ -17,4 +17,4 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 Représentez la même association avec la notation UML « petit losange » 
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
-  
+  L'utilisation d'une relation ternaire peut rendre la lecture plus complexe. De plus, on peut perdre de la clarté sur le rôle de chaque entité.
